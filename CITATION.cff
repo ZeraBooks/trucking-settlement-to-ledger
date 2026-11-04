@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "Trucking settlement to ledger"
+type: dataset
+authors:
+  - name: "ZeraBooks"
+    website: "https://www.zerabooks.com"
+url: "https://github.com/ZeraBooks/trucking-settlement-to-ledger"
+repository-code: "https://github.com/ZeraBooks/trucking-settlement-to-ledger"
+license: CC-BY-4.0
+abstract: "To automate a trucking client's books, read each driver's weekly settlement, add the loads, subtract the deductions and check the result against the total payment printed on the settlement before anything posts. Then map every line to the driver's accounts, match the net to the bank deposit and post one balanced entry on the pay date."
+keywords:
+  - trucking
+  - bookkeeping
+  - accounting
+  - settlement-statement
+  - owner-operator
+  - journal-entries
+  - python
+date-released: 2026-11-04

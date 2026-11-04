@@ -1,0 +1,15 @@
+settlement_id,carrier,driver,truck,week_ending,pay_date,line_type,description,amount
+NH-2026-10-09,Fictional Carrier Co,Northline Hauling,T-14,2026-10-09,2026-10-09,linehaul,"Linehaul, 4 loads",8400.00
+NH-2026-10-09,Fictional Carrier Co,Northline Hauling,T-14,2026-10-09,2026-10-09,fuel_surcharge,Fuel surcharge,1260.00
+NH-2026-10-09,Fictional Carrier Co,Northline Hauling,T-14,2026-10-09,2026-10-09,fuel_advance,Fuel card advances,-3180.00
+NH-2026-10-09,Fictional Carrier Co,Northline Hauling,T-14,2026-10-09,2026-10-09,insurance,Cargo and liability insurance,-420.00
+NH-2026-10-09,Fictional Carrier Co,Northline Hauling,T-14,2026-10-09,2026-10-09,escrow,Escrow held by the carrier,-250.00
+NH-2026-10-09,Fictional Carrier Co,Northline Hauling,T-14,2026-10-09,2026-10-09,eld_fee,ELD fee,-35.00
+NH-2026-10-09,Fictional Carrier Co,Northline Hauling,T-14,2026-10-09,2026-10-09,printed_total,Total payment,5775.00
+NH-2026-10-16,Fictional Carrier Co,Northline Hauling,T-14,2026-10-16,2026-10-16,linehaul,"Linehaul, 1 load",1050.00
+NH-2026-10-16,Fictional Carrier Co,Northline Hauling,T-14,2026-10-16,2026-10-16,fuel_surcharge,Fuel surcharge,160.00
+NH-2026-10-16,Fictional Carrier Co,Northline Hauling,T-14,2026-10-16,2026-10-16,fuel_advance,Fuel card advances,-980.00
+NH-2026-10-16,Fictional Carrier Co,Northline Hauling,T-14,2026-10-16,2026-10-16,insurance,Cargo and liability insurance,-420.00
+NH-2026-10-16,Fictional Carrier Co,Northline Hauling,T-14,2026-10-16,2026-10-16,escrow,Escrow held by the carrier,-250.00
+NH-2026-10-16,Fictional Carrier Co,Northline Hauling,T-14,2026-10-16,2026-10-16,eld_fee,ELD fee,-35.00
+NH-2026-10-16,Fictional Carrier Co,Northline Hauling,T-14,2026-10-16,2026-10-16,printed_total,Total payment,-475.00

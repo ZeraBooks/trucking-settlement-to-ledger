@@ -1,0 +1,16 @@
+line_type,account,side,decide_once,notes
+linehaul,Freight revenue,credit,no,Gross pay for the loads. Book the full amount even though deductions come out before the deposit
+fuel_surcharge,Freight revenue,credit,no,"Billed to the shipper, so it is revenue. Some bookkeepers use a separate Fuel surcharge revenue line to compare it with fuel cost"
+accessorial,Freight revenue,credit,no,"Detention, layover, stop-off and lumper reimbursements paid by the carrier"
+fuel_advance,Fuel expense,debit,no,Fuel bought on the carrier's card. Do not book the same fill again from the fuel card statement
+insurance,Insurance expense,debit,no,"Cargo, liability, bobtail or physical damage premiums the carrier deducts"
+occupational_accident,Insurance expense,debit,no,Occupational accident cover deducted weekly
+escrow,Escrow receivable,debit,no,"An asset, not an expense. The carrier holds it and pays it back when the lease ends, less any charges"
+maintenance_escrow,Maintenance reserve receivable,debit,no,Money set aside by the carrier for repairs. Also an asset until it is spent
+form_2290_savings,Form 2290 savings,debit,no,Weekly set-aside for the heavy vehicle use tax. An asset until the tax is paid
+eld_fee,Software and subscriptions,debit,no,"ELD, tablet or app fees"
+tolls,Tolls and scales,debit,no,Tolls and scale tickets charged back by the carrier
+plate_program,Licenses and permits,debit,no,Plate or permit program charged back in weekly instalments
+trailer_rental,Equipment rental,debit,no,Trailer rent charged by the carrier
+cash_advance,Owner draws,debit,yes,"Cash advanced to the driver. Usually a draw, but if it paid a business cost the receipt decides the account"
+truck_payment,Truck loan,debit,yes,"Lease-purchase or truck note taken through the settlement. Split it: interest to expense, principal against the loan"
