@@ -98,12 +98,12 @@ For a full trucking chart of accounts, see
 ## Learn more
 
 [Trucking bookkeeping automation](https://www.zerabooks.com/trucking-bookkeeping-automation)
-on zerabooks.com, and the guide to
-[bookkeeping for trucking](https://www.zerabooks.com/bookkeeping-for-trucking).
+on zerabooks.com, and the
+[ZeraBooks guide to bookkeeping for trucking](https://www.zerabooks.com/bookkeeping-for-trucking).
 
 ## License
 
 The content and data in this repository are licensed under
 [CC BY 4.0](LICENSE). The code (`*.py`) is licensed under [MIT](LICENSE-CODE).
 
-Maintained by [ZeraBooks](https://www.zerabooks.com).
+Maintained by ZeraBooks.
